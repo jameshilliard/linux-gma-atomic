@@ -24,6 +24,7 @@ gma500_gfx-y += \
 	  psb_intel_sdvo.o \
 	  psb_lid.o \
 	  psb_irq.o \
+	  psb_page_flip.o \
 	  psb_device.o \
 	  mid_bios.o
 
